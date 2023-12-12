@@ -22,5 +22,3 @@ Welcome to my blog [Extord的个人博客](https://blog.extord.space/)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Extord1108&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=Extord1108&show_icons=true)
-
-- 
