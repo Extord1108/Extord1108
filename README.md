@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Re-Li-fe/Re-Li-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=Re-Li-fe&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-Li-fe&layout=donut)
