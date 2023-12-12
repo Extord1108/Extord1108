@@ -13,6 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi👋, there
+
+I'm Extord，currently studying in BUAA, majoring in software engineering, and will soon enter the CASIA for research on medical images. 
+
+Welcome to my blog [Extord的个人博客](https://blog.extord.space/)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-Li-fe&layout=compact)
+
 ![](https://github-readme-stats.vercel.app/api?username=Re-Li-fe&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-Li-fe&layout=donut)
+- 
