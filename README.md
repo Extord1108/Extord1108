@@ -19,8 +19,8 @@ I'm Extord，currently studying in BUAA, majoring in software engineering, and w
 
 Welcome to my blog [Extord的个人博客](https://blog.extord.space/)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-Li-fe&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Extord1108&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=Re-Li-fe&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Extord1108&show_icons=true)
 
 - 
