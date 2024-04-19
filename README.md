@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 I'm Extord，currently studying in BUAA, majoring in software engineering, and will soon enter the CASIA for research on medical images. 
 
-Welcome to my blog [Extord的个人博客](https://blog.extord.space/)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Extord1108&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=Extord1108&show_icons=true)
