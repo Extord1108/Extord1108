@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi👋, there
 
-I'm Extord，currently studying in BUAA, majoring in software engineering, and will soon enter the CASIA for research on medical images. 
+I'm Extord，currently studying in CASIA for a doctorate, my research interest is medical image analysis.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Extord1108&layout=compact)
 
