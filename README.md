@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 
 # Hi👋, there
 
-I'm Extord，currently studying in CASIA for a doctorate, my research interest is medical image analysis.
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Extord1108&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=Extord1108&show_icons=true)
+I'm Extord，currently studying in CASIA for a doctorate, my research interest is computational pathology.
